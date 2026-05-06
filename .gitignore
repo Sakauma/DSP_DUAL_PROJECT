@@ -1,0 +1,23 @@
+# CCS / build outputs
+**/Debug/
+**/Release/
+*.obj
+*.pp
+*.out
+*.map
+*_linkInfo.xml
+ccsObjs.opt
+
+# Local contributor/agent notes
+AGENTS.md
+DSP_PROJECT_ASSESSMENT.md
+
+# Editor and OS files
+.metadata/
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
+Thumbs.db
+.DS_Store
