@@ -12,6 +12,9 @@ ccsObjs.opt
 AGENTS.md
 DSP_PROJECT_ASSESSMENT.md
 
+# Source Word documents are kept locally; sync Markdown extracts instead.
+docs/*.docx
+
 # Editor and OS files
 .metadata/
 .vscode/
