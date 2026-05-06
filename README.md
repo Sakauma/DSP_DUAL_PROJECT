@@ -51,3 +51,7 @@
 - 不提交 `Debug/`、`.obj`、`.pp`、`.out`、`.map`、`*_linkInfo.xml` 等中间产物。
 - 修改共享模块时，同步检查 DSP1 和 DSP2 两份工程。
 - 不要误改 DSP 专属身份宏，除非硬件 ID 分配发生变化。
+
+## 开发文档
+
+- [DSP 多核图像算法开发指南](docs/DSP_MULTICORE_DEVELOPMENT_GUIDE.md)
